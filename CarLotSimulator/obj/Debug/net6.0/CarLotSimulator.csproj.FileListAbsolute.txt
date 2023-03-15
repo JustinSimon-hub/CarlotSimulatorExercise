@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/net6.0/CarLotSimulator
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/net6.0/CarLotSimulator.deps.json
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/net6.0/CarLotSimulator.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/net6.0/CarLotSimulator.dll
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/net6.0/CarLotSimulator.pdb
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.dll
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/refint/CarLotSimulator.dll
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.pdb
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/CarLotSimulator.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/net6.0/ref/CarLotSimulator.dll
